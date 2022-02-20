@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/leesoohyeon/React-portfolio/static/css/main.aaf035c0.css",
+    "main.js": "/leesoohyeon/React-portfolio/static/js/main.9a2ac878.js",
+    "static/js/787.1ed0c42c.chunk.js": "/leesoohyeon/React-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/trafficapi.png": "/leesoohyeon/React-portfolio/static/media/trafficapi.ed0ecb7c5ffae0219347.png",
+    "static/media/Car.jpg": "/leesoohyeon/React-portfolio/static/media/Car.559e619053f75890472b.jpg",
+    "static/media/book.jpg": "/leesoohyeon/React-portfolio/static/media/book.b8ce9e9cad0e23a8d0d0.jpg",
+    "static/media/shopping.jpg": "/leesoohyeon/React-portfolio/static/media/shopping.e3dab0fbb74b8814f62c.jpg",
+    "static/media/lee.jpg": "/leesoohyeon/React-portfolio/static/media/lee.4bb4fd1eba5a7c126b32.jpg",
+    "static/media/JSP.jpg": "/leesoohyeon/React-portfolio/static/media/JSP.f6c340d3748cca08ad4b.jpg",
+    "static/media/java.png": "/leesoohyeon/React-portfolio/static/media/java.f4ea765878d6e68edefd.png",
+    "static/media/mysql.png": "/leesoohyeon/React-portfolio/static/media/mysql.bdbd1eb709e4c13258d2.png",
+    "static/media/c-sharp.png": "/leesoohyeon/React-portfolio/static/media/c-sharp.4a32f53d425c7ad4cb05.png",
+    "static/media/python.png": "/leesoohyeon/React-portfolio/static/media/python.b8b746567b0591cf0ac4.png",
+    "static/media/javaDB.png": "/leesoohyeon/React-portfolio/static/media/javaDB.81c71147b58a35c3270e.png",
+    "static/media/Lotto.png": "/leesoohyeon/React-portfolio/static/media/Lotto.9fe086e0ecc40c98ae0e.png",
+    "static/media/html-5.png": "/leesoohyeon/React-portfolio/static/media/html-5.b2db3a7f6897f0a6e75c.png",
+    "static/media/js.png": "/leesoohyeon/React-portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/oracle.png": "/leesoohyeon/React-portfolio/static/media/oracle.1b61eda2b30d6337ec6c.png",
+    "static/media/slick.svg": "/leesoohyeon/React-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/leesoohyeon/React-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/leesoohyeon/React-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/leesoohyeon/React-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/leesoohyeon/React-portfolio/index.html",
+    "main.aaf035c0.css.map": "/leesoohyeon/React-portfolio/static/css/main.aaf035c0.css.map",
+    "main.9a2ac878.js.map": "/leesoohyeon/React-portfolio/static/js/main.9a2ac878.js.map",
+    "787.1ed0c42c.chunk.js.map": "/leesoohyeon/React-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaf035c0.css",
+    "static/js/main.9a2ac878.js"
+  ]
+}
