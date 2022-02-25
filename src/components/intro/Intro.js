@@ -5,7 +5,7 @@ import {FlexBox} from '../reusuable/style'
 const IntroContainer = styled.div`
     position: relative;
     margin: 0 auto;
-    margin-top: 60px;  
+    margin-top: 90px;  
     width : 700px;
     height: 470px;
     box-shadow: 3px 3px 8px rgba(0,0,0,0.3);
